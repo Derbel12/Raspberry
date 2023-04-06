@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "onoff": "^6.0.3",
+    "wiringpi-node": "^2.4.4"
+  }
+}
