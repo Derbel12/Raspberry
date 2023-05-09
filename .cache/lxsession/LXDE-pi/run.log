@@ -1,0 +1,139 @@
+** Message: 16:39:08.186: environement.vala:58: Exporting primary_variable
+** Message: 16:39:08.186: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 16:39:08.186: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 16:39:08.187: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 16:39:08.187: environement.vala:218: custom_data :
+** Message: 16:39:08.187: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 16:39:08.187: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 16:39:08.187: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 16:39:08.195: utils.vala:127: User config used : /home/pfe/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 16:39:08.195: utils.vala:148: Final file used : /home/pfe/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 16:39:08.195: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 16:39:08.196: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 16:39:08.199: settings.vala:540: Le fichier de clés ne contient pas de clé « iGtk/ColorScheme » dans le groupe « GTK »
+** Message: 16:39:08.199: settings.vala:540: Le fichier de clés ne contient pas de clé « windows_manager/command » dans le groupe « Session »
+** Message: 16:39:08.199: settings.vala:540: Le fichier de clés ne contient pas de clé « panel/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « dock/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « file_manager/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « desktop_manager/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « launcher_manager/autostart » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « composite_manager/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « im1/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « im2/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « widget1/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « notification/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « keybindings/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « im_manager/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « screensaver/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « power_manager/command » dans le groupe « Session »
+** Message: 16:39:08.200: settings.vala:540: Le fichier de clés ne contient pas de clé « audio_manager/command » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « workspace_manager/command » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « screenshot_manager/command » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « message_manager/command » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « upgrade_manager/command » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « updates_manager/command » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « updates_manager/timeout » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « crash_manager/command » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « crash_manager/dev_mode » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « crash_manager/timeout » dans le groupe « Session »
+** Message: 16:39:08.201: settings.vala:540: Le fichier de clés ne contient pas de clé « upstart_user_session » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « proxy_manager/http » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « a11y/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « xrandr/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « network_gui/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « webbrowser/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « email/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « pdf_reader/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « video_player/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « audio_player/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « image_display/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « text_editor/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « archive/command » dans le groupe « Session »
+** Message: 16:39:08.202: settings.vala:540: Le fichier de clés ne contient pas de clé « charmap/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « calculator/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « spreadsheet/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « bittorent/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « document/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « webcam/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « burn/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « notes/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « disk_utility/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « tasks/command » dans le groupe « Session »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés n’a pas de groupe « Keymap »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « laptop_mode » dans le groupe « State »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « gnome » dans le groupe « Dbus »
+** Message: 16:39:08.203: settings.vala:540: Le fichier de clés ne contient pas de clé « type » dans le groupe « Environment »
+** Message: 16:39:08.204: settings.vala:540: Le fichier de clés ne contient pas de clé « ubuntu_menuproxy » dans le groupe « Environment »
+** Message: 16:39:08.204: settings.vala:540: Le fichier de clés ne contient pas de clé « toolkit_integration » dans le groupe « Environment »
+** Message: 16:39:08.204: settings.vala:540: Le fichier de clés ne contient pas de clé « gtk/overlay_scrollbar_disable » dans le groupe « Environment »
+** Message: 16:39:08.204: settings.vala:540: Le fichier de clés ne contient pas de clé « qt/force_theme » dans le groupe « Environment »
+** Message: 16:39:08.204: settings.vala:540: Le fichier de clés ne contient pas de clé « qt/platform » dans le groupe « Environment »
+** Message: 16:39:08.205: settings.vala:462: Monitoring: /home/pfe/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 16:39:08.205: settings.vala:466: Desktop file is already in config home, do nothing
+** Message: 16:39:08.205: environement.vala:79: Exporting variable
+** Message: 16:39:08.205: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 16:39:08.205: environement.vala:177: custom_config :
+** Message: 16:39:08.205: environement.vala:178: config_dirs :/etc/xdg
+** Message: 16:39:08.205: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 16:39:08.205: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 16:39:08.205: environement.vala:218: custom_data :
+** Message: 16:39:08.206: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 16:39:08.206: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 16:39:08.206: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 16:39:08.206: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 16:39:08.206: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 16:39:08.206: environement.vala:254: No entry in [Environment_variable]. Le fichier de clés n’a pas de groupe « Environment_variable »
+
+** (lxsession:699): WARNING **: 16:39:08.217: process.vala:49: L’exécution du processus fils « xprop » a échoué (Aucun fichier ou dossier de ce type)
+
+** (lxsession:699): WARNING **: 16:39:08.217: process.vala:50: Error when launching xprop
+** Message: 16:39:08.217: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 16:39:08.217: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 16:39:08.217: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 16:39:08.217: options.vala:164: Activate xsettings_manager build-in
+** Message: 16:39:08.217: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 16:39:08.218: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 16:39:08.243: app.vala:728: polkit separate
+** Message: 16:39:08.243: app.vala:728: polkit separate
+** Message: 16:39:08.261: app.vala:76: Launching lxpolkit 
+** Message: 16:39:08.261: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 16:39:08.261: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 16:39:08.261: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 16:39:08.261: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 16:39:08.279: app.vala:76: Launching lxpanel 
+** Message: 16:39:08.298: app.vala:76: Launching pcmanfm 
+
+** (lxsession:699): WARNING **: 16:39:08.306: app.vala:86: L’exécution du processus fils « xscreensaver » a échoué (Aucun fichier ou dossier de ce type)
+
+** (lxsession:699): WARNING **: 16:39:08.306: app.vala:87: Error when launching xscreensaver
+** Message: 16:39:08.321: options.vala:107: Create build-in Clipboard
+** Message: 16:39:08.328: main.vala:450: Check keymap_mode (null)
+** Message: 16:39:08.337: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-rzLE72NBekTU/agent.853; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=862; export SSH_AGENT_PID;
+echo Agent pid 862;
+Obt-Message: Xinerama extension is not present on the server
+** Message: 16:39:08.792: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+Openbox-Message: Impossible de trouver un fichier de menus valide  « /usr/share/lxde/openbox/menu.xml »
+** Message: 16:39:10.036: x-terminal-emulator has very limited support, consider choosing another terminal
+
+** (pcmanfm:848): WARNING **: 16:39:10.042: The directory '/home/pfe/Templates' doesn't exist, ignoring it
+** Message: 16:39:10.277: x-terminal-emulator has very limited support, consider choosing another terminal
+
+** (lxpanel:847): WARNING **: 16:39:10.286: The directory '/home/pfe/Templates' doesn't exist, ignoring it
+** Message: 16:39:13.363: netman: network manager service not running; plugin hidden
+** Message: 16:39:13.419: Connecting ...
+** Message: 16:39:13.420: Status changed to down
+
+** (lxpanel:847): CRITICAL **: 16:39:13.420: dhcpcd_open: Ioctl() inapproprié pour un périphérique
+** Message: 16:39:13.658: ptbatt: battery 0 not found
+** Message: 16:39:14.179: up: Checking for updates
+** Message: 16:39:14.421: Status changed to opened
+** Message: 16:39:14.421: Connected to dhcpcd-8.1.2
+** Message: 16:39:14.422: Status changed to connected
+** Message: 16:39:14.422: eth0: Link is down
+** Message: 16:39:14.422: wlan0: Associated with isim1
+** Message: 16:39:14.422: wlan0: Configured 192.168.3.218/22
+** Message: 16:39:14.426: wlan0: WPA status connected
+** Message: 16:39:22.211: up: Cache updated - comparing versions
+** Message: 16:52:53.386: up: Check complete - 55 updates available
