@@ -77,8 +77,10 @@ app.use (express.urlencoded({extended:true}));
  
 require("./App/controllers/led")(app);
 console.log('Serveur lancé: CTRL-C pour arrêter');
+require("./test-express/users")(app);
+require("./test-express/chambre")(app);
+require("./test-express/equipement")(app);
 
- 
 var http = require('http').createServer(app); //require http server, and create server with function handler()
 //var fs = require('fs'); //require filesystem module
 

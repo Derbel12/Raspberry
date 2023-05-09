@@ -63,7 +63,7 @@ router.post('/off', function(req, res,next) {
 });
 router.post('/read', async(req, res, next)=> {
     let ledo = req.body.led;
-    let cap1=new Gpio (27,'in')
+    let cap1=new Gpio (ledo,'in')
        
         res.status(200).send ({msg:stat,cap:cap, cap1:cap1.readSync()});
         
@@ -89,3 +89,4 @@ app.use(errorFilter);
 app.use('/api/led',router);
 
 };
+
